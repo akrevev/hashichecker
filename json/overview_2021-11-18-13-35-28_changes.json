@@ -1,11 +1,18 @@
 {
-    "data": {
-        "companyInformation": {
+    "companyInformation": {
+        "new": {
             "companyDescription": "At HashiCorp, we believe that infrastructure enables innovation.\n\nOur foundational technologies solve the core infrastructure challenges of cloud\nadoption by enabling an operating model that unlocks the full potential of\nmodern public and private clouds. Our cloud operating model provides consistent\nworkflows and a standardized approach to automating the critical processes\ninvolved in delivering applications in the cloud: infrastructure provisioning,\nsecurity, networking, and application deployment. With our solutions, companies\nof all sizes and in all industries can accelerate their time to market, reduce\ntheir cost of operations, and improve their security and governance of complex\ninfrastructure deployments.\n\nOrganizations today are undergoing a digital transformation across every\nbusiness function, driven by competition and ever-increasing consumer\nexpectations. Underlying this digital transformation is a re-platforming of\nstatic on-premises infrastructure to dynamic and distributed cloud\ninfrastructure. In this dynamic world, existing procedures are too inefficient\nto scale with distributed, multi-cloud infrastructure. Inconsistent, fragmented\ntechnologies and processes are time consuming and resource intensive to manage,\nexacerbated by inefficient, linear ticket-driven workflows that cannot\nfacilitate scaled, real-time operations. This digital transformation demands a\nnew cloud operating model for enterprise information technology, or IT,\nrequiring automation to provision, secure, connect, and run infrastructure at\nscale and in real time. At HashiCorp, we build industry-leading products that\nenable this cloud operating model and accelerate cloud adoption. Our primary\ncommercial products are Terraform, Vault, Consul, and Nomad:\n\n\u2022 Terraform is our infrastructure provisioning product that allows users to\n  easily set up and manage IT infrastructure. Terraform enables IT operations\n  teams to apply an Infrastructure-as-Code approach, where processes and\n  configuration required to support applications are codified and automated \n  instead of being manual and ticket-based. Terraform is cloud-neutral,\n  supporting all major public and private clouds, and has a broad ecosystem of\n  more than a thousand integrations with multiple cloud, software, and hardware\n  platforms.      \n\n\u2022 Vault is our secrets management and data protection product. Using Vault,\n  security teams can apply policies based on application and user identity,\n  integrating with both on-premises and cloud-native identity providers, to\n  govern access to credentials and secure sensitive data. Vault makes it simple\n  for practitioners to deploy zero-trust security and automate complex\n  workflows.        \n\n\u2022 Consul is our application-centric networking automation product. It enables\n  practitioners to manage application traffic, security teams to secure and\n  restrict access between applications, and operations teams to automate the \n  underlying network infrastructure.      \n\n\u2022 Nomad is our scheduler and workload orchestrator that enables organizations to\n  deploy and manage applications. It provides practitioners with a self-service\n  interface to manage the application lifecycle.       \n\nOur products can be adopted individually and are also designed to work together\nas a stack in order to solve larger, more complex challenges. For instance,\ndeploying Vault and Consul is the basis for a complete Zero Trust security\narchitecture with identity-driven controls, offering a full range of\nauthentication, authorization, and access management for human users or\nmachines, like servers or applications. We continue to innovate and deliver\nadditional emerging products to supplement these core capabilities and provide\nadjacent solutions.\n\nToday, our software is predominantly self-managed by users and customers who\ndeploy it across public, private, and hybrid cloud environments. We also offer\nthe HashiCorp Cloud Platform, or HCP, our fully-managed cloud platform for\nmultiple products that further accelerates enterprise cloud migration by\naddressing resource and skills gaps, improving operational efficiency, and\nspeeding up deployment time for customers.\n\nWe have deliberately built our products using an open-core software development\nmodel. All of our products are developed as open-source projects, with large\ncommunities of users, contributors, and partners collaborating on their\ndevelopment. We sell proprietary, commercial software that builds on our\nopen-source products with additional enterprise capabilities. Our products are\navailable in a non-commercial form for users to download, learn, and adopt,\nleading to market standardization of our products. Developers now play a larger\nrole in deciding which technology is used within the companies for which they\nwork, and this broad community engagement assists our go-to-market strategy by\nenabling technical knowledge and adoption inside our customers\u2019 organizations.\nAs a result, companies of all sizes and industries use our products, which have\nbeen downloaded approximately 100 million times during the fiscal year ended\nJanuary 31, 2021, or fiscal 2021.\n\nOur sales efforts build on our broad open-source reach and are driven by an\nenterprise sales force that focuses on large organizations. In addition, HCP\nsupplements our direct sales motion with a self-serve offering that enables us\nto serve small- and medium-sized businesses, or SMBs, through a low-touch\nsolution. HCP also addresses the needs of our largest enterprise customers who\nare increasingly looking for fully managed, cloud-native solutions.\n\nOur open-core software development model and sales efforts are further\nstrengthened by our ecosystem of partners. Our partners, including cloud service\nproviders and independent software vendors, or ISVs, build direct integrations\nfor our mutual customers, playing a critical role in amplifying the reach and\naccess of our products. We partner with global and regional systems integrators\nand resellers to facilitate transactions and provide scalable service\nengagements to ensure successful customer implementations. Chief Information\nOfficers, or CIOs, as a key IT deployment decision maker at many enterprises,\nstandardize on our platform over time as they build their cloud adoption\nstrategies and programs around their chosen cloud vendors and HashiCorp in\nconcert with their cloud service providers of choice and existing ISVs. Enabling\nusers to work within their existing infrastructure vendors creates a strong\nnetwork effect with our products. We had over 1,700 providers and integrations\nand more than 800 partners, including over 190 ISVs, as of October 31, 2021, and\nthese numbers continue to grow as we become mission critical to our customers\nand increasingly integral to their entire ecosystem.\n\nThe combination of our open-core, self-service, direct sales, and partner\necosystem components enables our powerful adopt, land, expand, and extend\nmotion. Our open-source engagement and self- serve cloud model help us identify \nand accelerate initial product adoption and use cases. This broad footprint then\nallows our enterprise sales teams to target and sign these customers with \nsubscription contracts for our software. Our expansion motion focuses on \nup-selling additional modules and increasing the footprint of usage of a given \nproduct, including across multiple buying centers within our customers\u2019 \norganizations. Importantly, the multiple capabilities of our deep product \nportfolio allow us to extend our reach by cross-selling additional products to\ncustomers. Our adopt, land, expand, and extend motion affords us many growth \nopportunities within our customer base as we focus our go-to-market strategy on\ndeveloping and cultivating long-term customer relationships. As of January 31,\n2020, October 31, 2020, January 31, 2021, April 30, 2021, July 31, 2021, and \nOctober 31, 2021, our last four quarter average net dollar retention rate was \n131%, 127%, 123%, 122%, 124%, and 127%, respectively. We are still in the early\nstages of our expansion and extension journey with our customers. Our focus on \nwinning lighthouse accounts in the Forbes Global 2000 accelerates our \npractitioner adoption by adding new users and driving partners to integrate our\necosystem, creating a powerful flywheel helping to drive our business.\n\nOur transformative technologies, open-source reach, and market leadership have\nled us to experience rapid growth. As of January 31, 2021, we had 500 customers\nwith $100,000 or greater annual recurring revenue, or ARR, compared to 338\ncustomers with $100,000 or greater ARR as of January 31, 2020. As of October 31,\n2021, we had 595 customers with $100,000 or greater ARR compared to 451\ncustomers with $100,000 or greater ARR as of October 31, 2020. We served over\n340 of the Forbes Global 2000 companies as of October 31, 2021. Our revenue was\n$121.3 million and $211.9 million for the fiscal year ended January 31, 2020, or\nfiscal 2020, and 2021, respectively, representing year-over-year growth of 75%.\nOur revenue was $150.0 million and $224.2 million for the nine months ended\nOctober 31, 2020 and 2021, respectively, representing period-over-period growth\nof 49%. Customers with $100,000 or greater ARR represented 71% and 83% of\nrevenue for fiscal 2020 and fiscal 2021, respectively, and 82% and 87% of\nrevenue for the nine months ended October 31, 2020 and 2021, respectively. We\nincurred net losses of $53.4 million and $83.5 million for fiscal 2020 and 2021,\nrespectively, and $76.6 million and $62.4 million for the nine months ended\nOctober 31, 2020 and 2021, respectively. We expect we will incur net losses for\nthe foreseeable future as we continue to invest into the market opportunity\nahead of us.\n---\n\nWe were incorporated under the laws of the state of Delaware in 2013. Our\nprincipal executive offices are located at 101 2nd Street, Suite #700, San\nFrancisco, CA 94105, United States. Telephone number: (415) 301-3250. Our \nwebsite address is www.HashiCorp.com.",
             "companyName": "HashiCorp, Inc.",
             "symbol": "HCP"
         },
-        "poOverview": {
+        "old": {
+            "companyDescription": "At HashiCorp, we believe that infrastructure enables innovation.\n\nOur foundational technologies solve the core infrastructure challenges of cloud\nadoption by enabling an operating model that unlocks the full potential of\nmodern public and private clouds. Our cloud operating model provides consistent\nworkflows and a standardized approach to automating the critical processes\ninvolved in delivering applications in the cloud: infrastructure provisioning,\nsecurity, networking, and application deployment. With our solutions, companies\nof all sizes and in all industries can accelerate their time to market, reduce\ntheir cost of operations, and improve their security and governance of complex\ninfrastructure deployments.\n\nOrganizations today are undergoing a digital transformation across every\nbusiness function, driven by competition and ever-increasing consumer\nexpectations. Underlying this digital transformation is a re-platforming of\nstatic on-premises infrastructure to dynamic and distributed cloud\ninfrastructure. In this dynamic world, existing procedures are too inefficient\nto scale with distributed, multi-cloud infrastructure. Inconsistent, fragmented\ntechnologies and processes are time consuming and resource intensive to manage,\nexacerbated by inefficient, linear ticket-driven workflows that cannot\nfacilitate scaled, real-time operations. This digital transformation demands a\nnew cloud operating model for enterprise information technology, or IT,\nrequiring automation to provision, secure, connect, and run infrastructure at\nscale and in real time. At HashiCorp, we build industry-leading products that\nenable this cloud operating model and accelerate cloud adoption. Our primary\ncommercial products are Terraform, Vault, Consul, and Nomad:\n\n\u2022 Terraform is our infrastructure provisioning product that allows users to\n  easily set up and manage IT infrastructure. Terraform enables IT operations\n  teams to apply an Infrastructure-as-Code approach, where processes and\n  configuration required to support applications are codified and automated\n  instead of being manual and ticket-based. Terraform is cloud-neutral,\n  supporting all major public and private clouds, and has a broad ecosystem of\n  more than a thousand integrations with multiple cloud, software, and hardware\n  platforms.\n\n\u2022 Vault is our secrets management and data protection product. Using Vault,\n  security teams can apply policies based on application and user identity,\n  integrating with both on-premises and cloud-native identity providers, to\n  govern access to credentials and secure sensitive data. Vault makes it simple\n  for practitioners to deploy zero-trust security and automate complex\n  workflows.\n\n\u2022 Consul is our application-centric networking automation product. It enables\n  practitioners to manage application traffic, security teams to secure and\n  restrict access between applications, and operations teams to automate the\n  underlying network infrastructure.\n \n\u2022 Nomad is our scheduler and workload orchestrator that enables organizations to\n  deploy and manage applications. It provides practitioners with a self-service\n  interface to manage the application lifecycle.\n\nOur products can be adopted individually and are also designed to work together\nas a stack in order to solve larger, more complex challenges. For instance,\ndeploying Vault and Consul is the basis for a complete Zero Trust security\narchitecture with identity-driven controls, offering a full range of\nauthentication, authorization, and access management for human users or\nmachines, like servers or applications. We continue to innovate and deliver\nadditional emerging products to supplement these core capabilities and provide\nadjacent solutions.\n\nToday, our software is predominantly self-managed by users and customers who\ndeploy it across public, private, and hybrid cloud environments. We also offer\nthe HashiCorp Cloud Platform, or HCP, our fully-managed cloud platform for\nmultiple products that further accelerates enterprise cloud migration by\naddressing resource and skills gaps, improving operational efficiency, and\nspeeding up deployment time for customers.\n\nWe have deliberately built our products using an open-core software development\nmodel. All of our products are developed as open-source projects, with large\ncommunities of users, contributors, and partners collaborating on their\ndevelopment. We sell proprietary, commercial software that builds on our\nopen-source products with additional enterprise capabilities. Our products are\navailable in a non-commercial form for users to download, learn, and adopt,\nleading to market standardization of our products. Developers now play a larger\nrole in deciding which technology is used within the companies for which they\nwork, and this broad community engagement assists our go-to-market strategy by\nenabling technical knowledge and adoption inside our customers\u2019 organizations.\nAs a result, companies of all sizes and industries use our products, which have\nbeen downloaded approximately 100 million times during the fiscal year ended\nJanuary 31, 2021, or fiscal 2021.\n\nOur sales efforts build on our broad open-source reach and are driven by an\nenterprise sales force that focuses on large organizations. In addition, HCP\nsupplements our direct sales motion with a self-serve offering that enables us\nto serve small- and medium-sized businesses, or SMBs, through a low-touch\nsolution. HCP also addresses the needs of our largest enterprise customers who\nare increasingly looking for fully managed, cloud-native solutions.\n\nOur open-core software development model and sales efforts are further\nstrengthened by our ecosystem of partners. Our partners, including cloud service\nproviders and independent software vendors, or ISVs, build direct integrations\nfor our mutual customers, playing a critical role in amplifying the reach and\naccess of our products. We partner with global and regional systems integrators\nand resellers to facilitate transactions and provide scalable service\nengagements to ensure successful customer implementations. Chief Information\nOfficers, or CIOs, as a key IT deployment decision maker at many enterprises,\nstandardize on our platform over time as they build their cloud adoption\nstrategies and programs around their chosen cloud vendors and HashiCorp in\nconcert with their cloud service providers of choice and existing ISVs. Enabling\nusers to work within their existing infrastructure vendors creates a strong\nnetwork effect with our products. We had over 1,400 providers and integrations\nand more than 700 partners, including over 170 ISVs, as of July 31, 2021, and\nthese numbers continue to grow as we become mission critical to our customers\nand increasingly integral to their entire ecosystem.\n\nThe combination of our open-core, self-service, direct sales, and partner\necosystem components enables our powerful adopt, land, expand, and extend\nmotion. Our open-source engagement and self- serve cloud model help us identify\nand accelerate initial product adoption and use cases. This broad footprint then\nallows our enterprise sales teams to target and sign these customers with\nsubscription contracts for our software. Our expansion motion focuses on\nup-selling additional modules and increasing the footprint of usage of a given\nproduct, including across multiple buying centers within our customers\u2019\norganizations. Importantly, the multiple capabilities of our deep product\nportfolio allow us to extend our reach by cross-selling additional products to\ncustomers. Our adopt, land, expand, and extend motion affords us many growth\nopportunities within our customer base as we focus our go-to-market strategy on\ndeveloping and cultivating long-term customer relationships. As of January 31,\n2020, July 31, 2020, January 31, 2021, April 30, 2021, and July 31, 2021, our\nlast four quarter average net dollar retention rate was 131%, 128%, 123%, 122%,\nand 124%, respectively. We are still in the early stages of our expansion and\nextension journey with our customers. Our focus on winning lighthouse accounts\nin the Forbes Global 2000 accelerates our practitioner adoption by adding new\nusers and driving partners to integrate our ecosystem, creating a powerful\nflywheel helping to drive our business.\n\nOur transformative technologies, open-source reach, and market leadership have\nled us to experience rapid growth. As of January 31, 2021, we had 500 customers\nwith $100,000 or greater annual recurring revenue, or ARR, compared to 338\ncustomers with $100,000 or greater ARR as of January 31, 2020. As of July 31,\n2021, we had 558 customers with $100,000 or greater ARR compared to 419\ncustomers with $100,000 or greater ARR as of July 31, 2020. We served over 300\nof the Forbes Global 2000 companies as of July 31, 2021. Our revenue was\n$121.3 million and $211.9 million for the fiscal year ended January 31, 2020, or\nfiscal 2020, and 2021, respectively, representing year-over-year growth of 75%.\nOur revenue was $94.8 million and $142.0 million for the six months ended\nJuly 31, 2020 and 2021, respectively, representing period-over-period growth of\n50%. Customers with $100,000 or greater ARR represented 71% and 83% of revenue\nfor fiscal 2020 and fiscal 2021, respectively, and 80% and 87% of revenue for\nthe six months ended July 31, 2020 and 2021, respectively. We incurred net\nlosses of $53.4 million and $83.5 million for fiscal 2020 and 2021,\nrespectively, and $67.3 million and $40.5 million for the six months ended\nJuly 31, 2020 and 2021, respectively. We expect we will incur net losses for the\nforeseeable future as we continue to invest into the market opportunity ahead of\nus.\n---\n\nWe were incorporated under the laws of the state of Delaware in 2013. Our\nprincipal executive offices are located at 101 2nd Street, Suite #700, San\nFrancisco, CA 94105, United States. Telephone number: (415) 301-3250. Our\nwebsite address is HashiCorp.com.",
+            "companyName": "HashiCorp, Inc.",
+            "symbol": "HCP"
+        }
+    },
+    "poOverview": {
+        "new": {
             "Address": {
                 "label": "Company Address",
                 "value": "101 2ND STREET, SUITE 700   SAN FRANCISCO CA 94105"
@@ -98,12 +105,100 @@
                 "label": "Total Offering Expense",
                 "value": "--"
             }
+        },
+        "old": {
+            "Address": {
+                "label": "Company Address",
+                "value": "101 2ND STREET, SUITE 700   SAN FRANCISCO CA 94105"
+            },
+            "CEO": {
+                "label": "CEO",
+                "value": "David McJannet"
+            },
+            "CompanyName": {
+                "label": "Company Name",
+                "value": "HashiCorp, Inc."
+            },
+            "CompanyWebsite": {
+                "label": "Company Website",
+                "value": "<a href='http://www.HashiCorp.com' target='_blank'>www.HashiCorp.com</a>"
+            },
+            "DealId": {
+                "label": "DealId",
+                "value": "1035813-101007"
+            },
+            "DealStatus": {
+                "label": "Status",
+                "value": "Filed"
+            },
+            "DollarValueOfSharesOffered": {
+                "label": "Offer amount",
+                "value": "$100,000,000"
+            },
+            "Exchange": {
+                "label": "Exchange",
+                "value": "NYSE"
+            },
+            "FiscalYearEnd": {
+                "label": "Fiscal Year End",
+                "value": "12/31"
+            },
+            "LockupPeriodExpirationDate": {
+                "label": "Lockup Expiration",
+                "value": "--"
+            },
+            "LockupPeriodNumberofDays": {
+                "label": "Lockup Period (days)",
+                "value": "180"
+            },
+            "NumberOfEmployees": {
+                "label": "Employees",
+                "value": "1400 (as of 07/31/2021)"
+            },
+            "PhoneNumber": {
+                "label": "Company Phone",
+                "value": "415-301-3227"
+            },
+            "ProposedSharePrice": {
+                "label": "Share Price",
+                "value": "--"
+            },
+            "QuietPeriodExpirationDate": {
+                "label": "Quiet Period Expiration",
+                "value": "--"
+            },
+            "SECCIK": {
+                "label": "CIK",
+                "value": "0001720671"
+            },
+            "ShareholderSharesOffered": {
+                "label": "Shareholder Shares Offered",
+                "value": "--"
+            },
+            "SharesOffered": {
+                "label": "Shares Offered",
+                "value": "--"
+            },
+            "SharesOutstanding": {
+                "label": "Shares Outstanding",
+                "value": "--"
+            },
+            "SharesOverAllotment": {
+                "label": "Shares Over Alloted",
+                "value": "--"
+            },
+            "StateOfIncorp": {
+                "label": "State of Inc",
+                "value": "DE"
+            },
+            "Symbol": {
+                "label": "Proposed Symbol",
+                "value": "HCP"
+            },
+            "TotalExpenseOfTheOffering": {
+                "label": "Total Offering Expense",
+                "value": "--"
+            }
         }
-    },
-    "message": null,
-    "status": {
-        "bCodeMessage": null,
-        "developerMessage": null,
-        "rCode": 200
     }
 }
