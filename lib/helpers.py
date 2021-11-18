@@ -51,7 +51,7 @@ class Helpers:
             "text": f"Error: {msg}"
         }
     }]
-    return Helpers.post_blocks_to_slack(blocks)
+    return Helpers.post_blocks_to_slack(blocks, "#bingobingo")
 
 
   @classmethod
@@ -81,11 +81,10 @@ class Helpers:
     return Helpers.post_blocks_to_slack(blocks)
 
   @classmethod
-  def post_blocks_to_slack(cls, blocks):
+  def post_blocks_to_slack(cls, blocks, slack_channel=os.environ.get('SLACK_CHANNEL')):
       slack_token = os.environ.get('SLACK_TOKEN')
-      slack_channel = os.environ.get('SLACK_CHANNEL')
       logging.debug(blocks)
-      logging.debug("Sending request to Slack")
+      logging.debug(f"Sending request to Slack (channel {slack_channel}")
       response = requests.post('https://slack.com/api/chat.postMessage', {
           'token': slack_token,
           'channel': slack_channel,
