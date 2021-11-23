@@ -10,7 +10,7 @@ on:
     - cron:  '*/15 * * * *'
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     name: IPO lookup
     steps:
       - name: Check it out
