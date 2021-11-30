@@ -1,0 +1,22 @@
+{
+    "dollar_value_of_shares_offered": {
+        "new": "$1,266,840,000",
+        "old": "$100,000,000.00"
+    },
+    "proposed_share_price": {
+        "new": "$68.00-72.00",
+        "old": "--"
+    },
+    "shares_offered": {
+        "new": 15300000.0,
+        "old": "--"
+    },
+    "shares_outstanding": {
+        "new": "15,300,000",
+        "old": "--"
+    },
+    "shares_over_allotment": {
+        "new": "2,295,000",
+        "old": "--"
+    }
+}
